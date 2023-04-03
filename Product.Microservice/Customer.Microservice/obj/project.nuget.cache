@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mf0NzGbH4+wNkEiCAPDHCy/gLChW66dNnZVZ8dVUK2oIkB8HRYKv1P+vf4Z7/2XOA0cGypfsPihNzBJ+loeBfA==",
+  "success": true,
+  "projectFilePath": "/Users/micaelbittencourt/Projects/TemplateMicroservice.WebApi/Product.Microservice/Customer.Microservice/Customer.Microservice.csproj",
+  "expectedPackageFiles": [
+    "/Users/micaelbittencourt/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/micaelbittencourt/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/micaelbittencourt/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/micaelbittencourt/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/micaelbittencourt/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/micaelbittencourt/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

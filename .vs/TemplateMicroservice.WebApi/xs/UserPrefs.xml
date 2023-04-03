@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{0E618693-4174-439B-8A8B-C0680A12C726}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Microservices.Customer.Microservice FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Microservices.Product.Microservice FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Gatway.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+</Properties>
